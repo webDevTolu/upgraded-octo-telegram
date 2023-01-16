@@ -15,6 +15,7 @@ app.use(
 // routes
 const url = require("./routes/url");
 const index = require("./routes/index");
+
 app.use("/", index);
 app.use("/api/url", url);
 
