@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://urlAdmin:9qbC9dGEluuXmgrC@url.6kd2rob.mongodb.net/urlList?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "https://my-short-url.up.railway.app/"
 }
